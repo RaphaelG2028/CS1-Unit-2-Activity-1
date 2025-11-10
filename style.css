@@ -1,1 +1,17 @@
+.flexbox {
+    display: flex;
+    border: 2px solid blue;
+    padding: 20px;
 
+}
+.item{
+    border: 2px solid green;
+    padding: 20px;
+
+}
+
+#box1{
+    justify-content: space-evenly;
+    
+
+}
