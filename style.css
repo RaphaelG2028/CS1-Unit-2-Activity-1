@@ -7,11 +7,25 @@
 .item{
     border: 2px solid green;
     padding: 20px;
-
 }
+
 
 #box1{
     justify-content: space-evenly;
-    
+    background: rgb(67, 67, 154);
+}
+#box2{
+    justify-content:center;
+}
+#box3{
+    justify-content:center;
+    background: rgb(210, 202, 202);
+}
+#box4{
+    justify-content:center;
+}
 
+#box4-inner{
+    justify-content:center;
+    background: #4f8fde;
 }
