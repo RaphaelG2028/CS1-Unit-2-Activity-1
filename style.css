@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Yarndings+20&display=swap');
+
+ Body{
+  font-family: "Josefin Sans", sans-serif;
+   }
+
+
 .flexbox {
     display: flex;
     padding: 15px;
@@ -11,7 +18,7 @@
 
 #box1{
     justify-content: space-evenly;
-    background: rgb(67, 67, 154);
+    background: rgb(126, 126, 252);
 }
 #box2{
     justify-content:center;
@@ -30,4 +37,12 @@
 }
 h2{
     text-align: center;
+}
+
+.button1{
+    text-align: center;
+}
+
+button{
+    background-color: rgb(152, 215, 234);
 }
